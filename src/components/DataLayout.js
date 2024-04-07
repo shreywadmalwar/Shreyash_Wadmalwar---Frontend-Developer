@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import DataCard from "./DataCard";
 import { CapsuleContext } from "../App";
-import pic_5 from "/Users/shreywadmalwar/Downloads/space_x/src/images/pic_5.jpg"
+import pic_5 from "../images/pic_5.jpg"
 
 export default function DataLayout() {
   // eslint-disable-next-line
